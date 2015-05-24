@@ -8,3 +8,7 @@
 6.6 Extreme Programming
 6.7 Unified process
 ```
+```
+References:
+[4] Craig Larman - Agile & Iterative Development : A Manager's guide, 1st impression, 2006
+```
