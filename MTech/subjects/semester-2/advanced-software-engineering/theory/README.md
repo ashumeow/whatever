@@ -57,3 +57,12 @@ Unit V - Software Quality Assurance
 5. Reverse Engineering and Re-Engineering
 6. Process Capability Maturity Models
 ```
+```
+List of Books I'm using:
+[1] Ian Sommerville - Software Engineering, 9th edition, 6th impression, 2013.
+[2] Shari Lawrence Pfleeger, Joanne M.Atlee - Software Engineering : Theory and Practice, 4th edition, 3rd impression, 2013.
+[3] Roger S.Pressman - Software Engineering : A Practitioner's approach, 7th edition.
+[4] Craig Larman - Agile & Iterative Development : A Manager's guide, 1st impression, 2006
+[5] Carlo Ghezzi, Mehdi Jazayeri, Dino Mandrioli - Fundamentals of Software Engineering, 2nd edition, 2010.
+[6] Mary Shaw, David Garlan - Software Architecture: Perspectives on an Emerging Discipline, 2013.
+```
