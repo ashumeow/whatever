@@ -21,7 +21,7 @@ Unit-II - System, Process and Product Engineering Hierarchies
 4. Languages and Tools
 5. Requirements Validation Metrics
 
-Unit III - Software Architcture
+Unit III - Software Architecture
 1. Introduction
 2. Architectural Styles
 3. Architecture for distributed applications
