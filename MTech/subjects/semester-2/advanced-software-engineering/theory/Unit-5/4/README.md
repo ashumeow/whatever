@@ -1,3 +1,4 @@
+<b>Book - 1</b>
 ```
 Software Configuration Management (SCM)
 
@@ -21,4 +22,17 @@ Software Configuration Management (SCM)
 
 References:
 [3] Roger S.Pressman - Software Engineering : A Practitioner's approach, 7th edition.
+```
+<b>Book - 2</b>
+```
+Software Configuration Management
+
+1. Introduction
+2. Change Management
+3. Version Management
+4. System Building
+5. Release Management
+
+References:
+[1] Ian Sommerville - Software Engineering, 9th edition, 6th impression, 2013.
 ```
