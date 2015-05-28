@@ -80,6 +80,11 @@ C => Cost to the project
 ```
 ```
 4. Risk refinement
+-- Easier to mitigate, monitor and manage.
+-- Representation of risks
+condition -> transition -> consequence
+```
+```
 5. Risk Mitigation, Monitoring and Management
 6. The RMMM plan
 
