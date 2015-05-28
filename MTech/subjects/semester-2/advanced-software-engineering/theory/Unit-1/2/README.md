@@ -122,6 +122,12 @@ Where are they located organizationally?
 How will the job be done both technically and mangerially?
 How much of each resource is needed?
 ```
+---------------------------------------------------------------------------------------
+```
+2. Project Metrics
+2.1 Introduction
+2.2 Uses
+```
 ```
 References:
 [3] Roger S.Pressman - Software Engineering : A Practitioner's approach, 7th edition.
