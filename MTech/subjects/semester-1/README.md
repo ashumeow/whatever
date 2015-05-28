@@ -2,10 +2,10 @@
 List of subjects taken and status
 ```
 ```
-1. Advanced Distributed Systems
+1. Advanced Distributed Systems (my favorite class <3)
 status: cleared
 
-2. Advanced datastructures and algorithms
+2. Advanced datastructures and algorithms (less classes, but also my favorite)
 status: cleared
 
 3. Advanced Data Mining
