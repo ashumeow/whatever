@@ -1,7 +1,20 @@
 ```
 Planning risk analysis
-
+```
+```
 1. Software risks
+
+1.1 Definition -- Keywords
+(a) uncertainity
+(b) risks
+
+1.2 Types
+1.2.1 Project risks
+1.2.2 Technical risks
+1.2.3 Business risks
+1.2.4 Predictable risks
+```
+```
 2. Risk identification
 2.1 Asessing overall project risk
 2.2 Risk components and drivers
