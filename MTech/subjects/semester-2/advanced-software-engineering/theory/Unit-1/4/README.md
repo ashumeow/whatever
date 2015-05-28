@@ -52,7 +52,25 @@ Estimated effort = NOP / PROD
 ```
 ```
 3. The software equation
+
+E = [(LOC X B^0.333)/P^3] X [t^4]
+E => Effort
+B => Special skills factor
+P => Productivity parameter
+t => Project duration
+```
+```
 4. Estimation for Object Oriented Projects
+
+Approaches:
+(a) Develop estimation using effort decomposition and FP analysis.
+(b) Develop use cases using requirement model for determining the count.
+(c) Determine number of key classes (known as analysis classes) using requirement model.
+(d) Develop a multiplier for categorizing the type of interface in applications.
+(e) Multiply the number of classes by the average number of work units per class.
+(f) Cross check by multiplying the average number of work units per use case.
+```
+```
 5. Specialized Estimation Techniques
 5.1 Estimation for Agile Development
 5.2 Estimation for WebApp Projects
