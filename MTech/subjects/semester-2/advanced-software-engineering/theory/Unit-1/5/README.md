@@ -48,8 +48,37 @@ Risk identification through following sub-categories:
 ```
 ```
 3. Risk projection
+-- otherwise known as risk estimation.
+
+Four risk projection steps:
+(a) Establish a scale.
+(b) Indicate the exact consequences of the risk.
+(c) Estimate the impact of the risks on the project and product.
+(d) Assess the overall accuracy of the risk projection.
+
+Plotting:
+Risk components on X-axis and Risk drivers on Y-axis
+
 3.1 Developing a risk table
+
 3.2 Assessing risk impact
+
+3.2.1 Steps to determine the risk:
+a -- Determining the average probability of occurences for each risk
+b -- Determining the impact for each component
+c -- Complete the risk table and Analyze the results
+
+3.2.2 Defining the project risks
+(a) Risk identification
+(b) Risk probability
+(c) Risk impact
+(d) Risk Exposure (RE)
+RE = P X C
+where,
+P => Probability of occurences for the risk
+C => Cost to the project
+```
+```
 4. Risk projection
 4.1 Developing a risk table
 4.2 Assessing risk impact
