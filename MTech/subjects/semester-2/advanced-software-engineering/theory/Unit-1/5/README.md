@@ -86,6 +86,18 @@ condition -> transition -> consequence
 ```
 ```
 5. Risk Mitigation, Monitoring and Management
+
+Possible steps:
+(i) Meet with current staff members to determine the causes.
+(ii) Migitate those causes.
+(iii) Once project commences, then turnover will occur and develop techniques to ensure continuity.
+(iv) Organize the project team.
+(v) Define work product standards and establish the mechanisms.
+(vi) Conduct a peer review.
+(vii) Assign a backup staff member.
+
+```
+```
 6. The RMMM plan
 
 References:
