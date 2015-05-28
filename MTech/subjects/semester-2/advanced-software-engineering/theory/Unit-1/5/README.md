@@ -99,7 +99,9 @@ Possible steps:
 ```
 ```
 6. The RMMM plan
-
+RMMM => Risk Migitation, Monitoring and Management
+```
+```
 References:
 [3] Roger S.Pressman - Software Engineering : A Practitioner's approach, 7th edition.
 ```
