@@ -74,8 +74,16 @@ Approaches:
 5. Specialized Estimation Techniques
 
 5.1 Estimation for Agile Development
+(a) Each user scenario is considered separately for estimation purposes.
+(b) Each scenario is decomposed into set of software engineering tasks.
+(c) The effort of each task can be estimated separately. 
+The volume can be estimated through LOC and FP analysis.
+(d) The estimates for each task is aimed to create an estimate for each scenario. 
+The volume estimate is translated into effort using historical data.
+(e) Develop effort estimate for the increment.
 
 5.2 Estimation for WebApp Projects
+
 Approaches:
 -- Inputs
 -- Outputs
@@ -86,9 +94,28 @@ Approaches:
 ```
 ```
 6. Make/Buy Decision
+
+Acquistion options:
+choice 1: Purchase the software through license
+choice 2: Full experience or Partial experience software components
+choice 3: Customized software
+
 6.1 Creating a decision tree
+
+6.1.1 Decision tree for a "software based system X"
+(a) Build X from scratch
+(b) Build X from the existing partial experience components
+(c) Build X by customizing from the licensed software and using it for local use
+(d) Contract the software development for the outside vendor
+
+6.1.2 Computing a decision tree
+
+Estimated cost = (Path Probability)^i X (Estimated path cost)^i
+where i is the decision tree path.
+
 6.2 Outsourcing
-7. Summary
+-- Contracting to a third party
+-- Cost savings
 ```
 ```
 References:
