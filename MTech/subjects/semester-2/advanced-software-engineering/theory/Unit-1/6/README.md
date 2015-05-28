@@ -1,8 +1,16 @@
 ```
 Software Project Scheduling and Tracking
-
+```
+```
 1. Basic concepts
 
+1.1 Steps
+-- Perform a detailled estimate using the historical data.
+-- Develop a software engineering strategy using incremental model
+-- Meet with the customer
+-- Offer incremental development strategy as an alternative.
+```
+```
 2. Project scheduling
 2.1 Basic principles
 2.2 The relationship between people and effort
