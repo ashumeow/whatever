@@ -79,13 +79,9 @@ P => Probability of occurences for the risk
 C => Cost to the project
 ```
 ```
-4. Risk projection
-4.1 Developing a risk table
-4.2 Assessing risk impact
-5. Risk refinement
-6. Risk Mitigation, Monitoring and Management
-7. The RMMM plan
-8. Summary
+4. Risk refinement
+5. Risk Mitigation, Monitoring and Management
+6. The RMMM plan
 
 References:
 [3] Roger S.Pressman - Software Engineering : A Practitioner's approach, 7th edition.
