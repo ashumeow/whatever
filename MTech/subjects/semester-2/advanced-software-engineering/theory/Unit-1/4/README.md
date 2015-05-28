@@ -34,6 +34,23 @@ E = -12.88 + 0.405 FP
 ```
 ```
 2. The COCOMO II model
+
+Hierachy of Estimation models
+(i) Application composition model
+(ii) Early design stage model
+(iii) Post-architecture stage model
+
+Estimation of re-use:
+NOP = object points X [(100 - re-use%)/100]
+NOP => New Object points
+
+Estimation of productivity rate:
+PROD = NOP / (person - month)
+
+Estimation of efforts:
+Estimated effort = NOP / PROD
+```
+```
 3. The software equation
 4. Estimation for Object Oriented Projects
 5. Specialized Estimation Techniques
