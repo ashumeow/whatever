@@ -43,3 +43,13 @@ Unit-5 - Secure Internet Programming
 5.2 Internet Security Standards and Internet Security Products
 5.3 Trusted Internet Security Services
 ```
+```
+List of books i am using:
+[1] "How the Internet works" - Preston Gralia, 8th edition, 2012.
+[2] "Security in Computing" - Charles P.Pfleeger, Shari Lawrence Pfleeger, 4th edition, 2011.
+[3] "Network Security - Private communication in a public world" - Charlie Kaufman, Radia Perlman, Mike Speciner, 2nd edition, 2012.
+[4] "Crytography and Network Security - Principles and Practice" - William Stallings, 5th edition, 2011.
+[5] "C-rytography and Network Security" - B.S.Charulatha, 2010.
+[6] "TCP/IP protocol suite" - Behrouz A.Forouzan, 4th edition, 2014.
+[7] "Handbook of Wireless Networks and Mobile Computing" - Ivan Stojmenovic, 2006.
+```
