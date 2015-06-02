@@ -11,6 +11,10 @@ Unit-1 - Introduction
 1.1.6 How routers work?
 
 1.2 Connecting to the internet
+1.2.1 How computers connect to the internet?
+1.2.2 How internet/television connections work?
+1.2.3 How wireless communications and Wifi work?
+1.2.4 How home networks work?
 
 References:
 [1] "How the Internet works" - Preston Gralia, 8th edition, 2012.
