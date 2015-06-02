@@ -7,3 +7,7 @@ Unit-2 - Internet Security
 2.5 Extended website security functionality
 2.6 Securing web communications with SSL, VPNS
 ```
+```
+References
+[2] "Security in Computing" - Charles P.Pfleeger, Shari Lawrence Pfleeger, 4th edition, 2011.
+```
