@@ -5,7 +5,7 @@ We all need money...
 Money is survival..
 ```
 ```
-But, i will never become a professor for few reasons,
+But, i will never ever become a professor for few reasons,
 
 (i) In whole academics, 
 Students laugh/poke fun/scream of my scary face/weird walking. 
@@ -24,7 +24,7 @@ So, this is another reason.
 (iii) Teachers need to remember every concept from the books.
 For me, My memory extract the specific information in a deeper way.
 Which is also why some people put me in a category called "different",
-that made me feel like an alien.
+that made me feel like an alien staying alone always.
 
 (iv) I don't like teachers.
 There was a time (till 2006), i love teachers.
