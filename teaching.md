@@ -8,7 +8,7 @@ Money is survival..
 But, i will never ever become a professor for few reasons,
 
 (i) In whole academics, 
-Students laugh/poke fun/scream of my scary face/weird walking. 
+Students laugh/poke fun/scream of my scary appearance/weird walking. 
 I experienced it several times.
 I never fight with them because they are not equal to my anger.
 I don't want to work in such a place.
@@ -32,6 +32,8 @@ Then, time changed!
 
 (v) Teachers are heavily partially, political & gossipers equivalent to some students.
 I am never partial and i don't do politics.
+
+(vi) I want to stay as ME.
 
 Lastly, i don't want to spoil someone's life like how my life had turned out.
 
