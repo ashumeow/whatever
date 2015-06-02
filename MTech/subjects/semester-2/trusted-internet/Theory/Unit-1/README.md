@@ -16,11 +16,14 @@ Unit-1 - Introduction
 1.2.3 How wireless communications and Wifi work?
 1.2.4 How home networks work?
 
+1.3 Internet Service Providers (ISP)
+-- Sell monthly/yearly internet connections to the people.
+-- Run their own segment of internet.
+-- Provide long distance connections => backbones
+-- Eg: Telephone companies
+
 References:
 [1] "How the Internet works" - Preston Gralia, 8th edition, 2012.
-```
-```
-1.3 Internet Service Providers (ISP)
 ```
 ```
 1.4 TCP/IP suite and Internet stack protocols
