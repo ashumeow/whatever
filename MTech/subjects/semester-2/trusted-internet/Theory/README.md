@@ -51,8 +51,7 @@ List of books i am using:
 [4] "Crytography and Network Security - Principles and Practice" - William Stallings, 5th edition, 2011.
 [5] "C-rytography and Network Security" - B.S.Charulatha, 2010.
 [6] "TCP/IP protocol suite" - Behrouz A.Forouzan, 4th edition, 2014.
-[7] "Handbook of Wireless Networks and Mobile Computing" - Ivan Stojmenovic, 2006.
 ```
 ```
-[8] Cisco trusted internet connection document
+[7] Cisco trusted internet connection document
 ```
