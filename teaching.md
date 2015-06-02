@@ -33,7 +33,10 @@ Then, time changed!
 (v) Teachers are heavily partially, political & gossipers equivalent to some students.
 I am never partial and i don't do politics.
 
-(vi) I want to stay as ME.
+(vi) Teachers skip chapters due to laziness or whatever excuses, 
+but expect students to learn everything.
+
+(vii) I want to stay as ME.
 
 Lastly, i don't want to spoil someone's life like how my life had turned out.
 
