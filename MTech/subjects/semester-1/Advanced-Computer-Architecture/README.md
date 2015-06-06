@@ -38,7 +38,7 @@ II.B.D. Virtual Memory Technology
 Unit - III
 
 III.A. Bus, Cache and Shared Memory
-III.A.A. Backplane Bus Systems
+III.A.A. Bus Systems
 III.A.B. Cache Memory Organizations
 III.A.C. Shared-Memory Organizations
 III.A.D. Sequential and Weak Consistency Models
