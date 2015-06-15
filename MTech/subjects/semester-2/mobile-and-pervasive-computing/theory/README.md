@@ -66,4 +66,5 @@ List of books i am using...
 [2] "Handbook of wireless networks and mobile computing", Ivan Stojmenovic, 2006.
 [3] "Mobile Computing", Raj Kamal, 9th impression, 2010.
 [4] "Fundamentals of mobile and pervasive computing", Frank Adelstein, Sandeep K.S.Gupta, Golden G.Richard III, Loren Schwiebert, 8th reprint, 2011.
+[5] "Pervasive Computing - Technology and Architecture of Mobile Internet Applications", Jochen Burkhardt, Horst Henn, Stefan Hepper, Klaus Rindtorff, Thomas Schaeck, 11th impression, 2012.
 ```
