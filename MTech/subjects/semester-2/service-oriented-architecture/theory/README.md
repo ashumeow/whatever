@@ -68,3 +68,9 @@ V.C. Transaction Specifications
 V.D. SOA in mobile
 V.E. Research issues
 ```
+```
+List of books i am using...
+[1] "Service-Oriented Architecture for Enterprise and Cloud Applications", Shankar Kambhampaty, 2nd edition, reprint, 2013.
+[2] "Security in Computing" - Charles P.Pfleeger, Shari Lawrence Pfleeger, 4th edition, 2011.
+[3] "Service oriented architecture", Dr.S.Padma Priya, 2012.
+```
