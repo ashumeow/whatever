@@ -1,4 +1,4 @@
-MTech
+MTech - (2013-2015) - Completed
 ```
 Money value:- whatever! :'( :'(
 Freedom:- 80% 
