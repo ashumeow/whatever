@@ -15,10 +15,10 @@ status: cleared
 status: cleared
 
 5. Advanced Computer Architecture
-status: not cleared
+status: cleared
 
 6. Knowledge Management
-status: not cleared
+status: cleared
 ```
 ```
 Seminar thesis:
