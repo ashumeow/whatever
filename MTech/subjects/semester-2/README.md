@@ -9,16 +9,16 @@ Status: cleared
 Status: cleared
 
 3. Advanced Software Engineering
-Status: not cleared
+Status: cleared
 
 4. Trusted Internet
-Status: not cleared
+Status: cleared
 
 5. Mobile and Pervasive Computing
-Status: not cleared
+Status: cleared
 
 6. Service Oriented Architecture
-Status: not cleared
+Status: cleared
 ```
 ```
 7. Lab (Java, ASP.NET, Java Servlet, PHP, Web Services)
